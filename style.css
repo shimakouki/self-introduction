@@ -1,0 +1,26 @@
+@charset "UFT-8" ;
+h1 {
+    color: orange;
+}
+.blue {
+    color:rgba(0, 0, 255,.4);
+}
+#table{
+    color:aqua;
+}
+text1{
+    font-size: 40px;
+}
+html{
+    font-size: 100%;
+}
+.text2{
+    font-size: 1.5rem;
+}
+text3{
+    font-size: 1rem;
+}
+p{  font-family: 'M PLUS 1p';
+    font-size: .8rem;
+}
+
